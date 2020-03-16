@@ -1,0 +1,110 @@
+body {
+  background-image: url(../img/bg-2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+header, main {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: orangered;
+  height: 40px;
+  padding-top: 10px;
+  color: white;
+  margin-top: 50px;
+}
+
+header img {
+  width: 80px;
+  height: 30px;
+  padding-top: 2px;
+  padding-left: 10px;
+  float: left;
+}
+
+header nav ul {
+  margin: 0;
+  padding-top: 5px;
+}
+
+header nav ul li {
+  list-style-type: none;
+  display: inline;
+  padding: 0 20px;
+}
+
+main {
+  margin-top: 70px;
+}
+
+section {
+  background-color: white;
+  overflow: hidden;
+}
+
+div.box {
+  width: 300px;
+  height: 170px;
+  margin: 10px;
+  float: left;
+}
+
+div.box button {
+  background-color: orangered;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+  padding: 10px;
+  position: relative;
+  top: 110px;
+  left: 108px;
+}
+
+h5.nome-produto {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 0;
+  text-align: center;
+  position: relative;
+  top: 90px;
+}
+
+div#box1 {
+  background-image: url('../img/img-phone-01.jpg');
+}
+
+div#box2 {
+  background-image: url('../img/img-phone-02.jpg');
+}
+
+div#box3 {
+  background-image: url('../img/img-phone-03.jpg');
+}
+
+div#box4 {
+  background-image: url('../img/img-phone-02.jpg');
+}
+
+div#box5 {
+  background-image: url('../img/img-phone-03.jpg');
+}
+
+div#box6 {
+  background-image: url('../img/img-phone-01.jpg');
+}
+
+div#box7 {
+  background-image: url('../img/img-phone-01.jpg');
+}
+
+div#box8 {
+  background-image: url('../img/img-phone-02.jpg');
+}
+
+div#box9 {
+  background-image: url('../img/img-phone-03.jpg');
+}
